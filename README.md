@@ -1,20 +1,23 @@
 # Krishna's Portfolio
 
-[![GitHub followers](https://img.shields.io/github/followers/krishna182005?style=social)](https://github.com/krishna182005)
+[![GitHub followers](https://img.shields.io/github/followers/krishna-apex?style=social)](https://github.com/krishna-apex)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/krishna-d-140594372)
 [![Twitter](https://img.shields.io/badge/Twitter-@KVembuli42944-blue?logo=twitter)](https://x.com/KVembuli42944)
+
+[![Portfolio Live](https://img.shields.io/badge/Portfolio-krishna--apex.github.io%2Fportfolio-brightgreen?style=flat&logo=github)](https://krishna-apex.github.io/portfolio/)
 
 ---
 
 ## 👋 About Me
 
-I am Krishna, a passionate software developer experienced in **Kotlin**, **Python**, and **JavaScript**. I thrive on building robust, scalable applications and enjoy collaborating within the open-source community. My tech journey is focused on continuous learning, solving complex challenges, and sharing knowledge.
+I am Krishna, a passionate software developer experienced in **Kotlin**, **Python**, and **JavaScript**. Builder of [Krexel.app](https://krexel.app) — offline AI for Android (Chat, Keyboard, Notes, Translation with GGUF on-device). I thrive on building robust, scalable applications and enjoy collaborating within the open-source community.
 
-- 💻 **Languages:** Kotlin, Python, JavaScript
-- 🚀 **Interests:** Backend development, web technologies, automation, open-source
+- 💻 **Languages:** Kotlin, Python, JavaScript, TypeScript, C++
+- 🚀 **Interests:** Android AI, on-device inference, web technologies, automation, open-source
 - 🌱 **Currently Learning:** Advanced system design & cloud engineering
 - 🏆 **Certificates:** [Responsive Web Design - freeCodeCamp](https://www.freecodecamp.org/certification/fcc5a41c0e4-87df-41f9-b7c6-04d0f08d7245/responsive-web-design)
 - 📫 **Contact:** [krishnavembuli@gmail.com](mailto:krishnavembuli@gmail.com)
+- 🌐 **Portfolio:** [krishna-apex.github.io/portfolio](https://krishna-apex.github.io/portfolio/) | **Krexel:** [krexel.app](https://krexel.app)
 
 ---
 
@@ -30,13 +33,15 @@ I am Krishna, a passionate software developer experienced in **Kotlin**, **Pytho
 
 ## 📊 GitHub Stats
 
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna182005&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna182005&layout=compact&theme=radical)
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna-apex&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-apex&layout=compact&theme=radical)
 
 ---
 
 ## 🌍 Connect With Me
 
+- [Portfolio](https://krishna-apex.github.io/portfolio/)
+- [GitHub](https://github.com/krishna-apex)
 - [LinkedIn](https://www.linkedin.com/in/krishna-d-140594372)
 - [Twitter](https://x.com/KVembuli42944)
 - [Email](mailto:krishnavembuli@gmail.com)
