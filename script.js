@@ -53,11 +53,11 @@ if (contactForm) {
         const name = document.getElementById('name').value;
         const email = document.getElementById('email').value;
         const message = document.getElementById('message').value;
-        
-        // Here you would typically send the form data to a server
-        // For now, we'll just log it and show an alert
-        console.log({ name, email, message });
-        alert('Thank you for your message! I will get back to you soon.');
+
+        // Open the visitor's email app with a pre-filled message
+        const subject = encodeURIComponent(`Portfolio contact from ${name}`);
+        const body = encodeURIComponent(`${message}\n\n— ${name} (${email})`);
+        window.location.href = `mailto:krishnavembuli@gmail.com?subject=${subject}&body=${body}`;
         
         // Reset the form
         contactForm.reset();
